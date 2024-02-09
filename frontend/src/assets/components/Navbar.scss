@@ -1,0 +1,12 @@
+.navbar-wrapper {
+  .home-nav-ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+    .nav-ul-li {
+      display: flex;
+      gap: 8px;
+    }
+  }
+}

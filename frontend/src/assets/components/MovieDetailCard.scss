@@ -1,0 +1,20 @@
+.moviedetails-wrapper {
+  .moviedetails-title {
+    text-align: left;
+    padding: 1em;
+  }
+  .moviedetails-flex {
+    display: flex;
+    .movie-picture {
+      padding: 1em;
+    }
+    .movie-text {
+      text-align: left;
+      padding: 1em;
+    }
+  }
+  .movie-footer {
+    text-align: left;
+    padding: 1em;
+  }
+}
